@@ -1,5 +1,5 @@
 ---
-title: Search
+title: :mag:
 layout: search
 permalink: /search/
 ---
