@@ -7,16 +7,19 @@ sidebar_main: true
 ---
 
 <div class="about-text">
-Welcome!
+<p>Welcome!</p>
 
-I'm Juha Bae, an M.A. student in economics at Yonsei University. My primary interests are Industrial Organization and Microeconomics, though I am always happy to explore other fields as well.
+<p>I'm Juha Bae, an M.A. student in economics at Yonsei University. My main interests are Industrial Organization and Microeconomics, but I also enjoy exploring other areas whenever I get the chance.</p>
 
-This blog is a space where I share:
-- things I study
-- things I read
-- and many other thoughts
+<p>This blog is a place where I share:</p>
 
-Please feel free to contact me at juha.bae@yonsei.ac.kr.
+<ul>
+  <li>things I study</li>
+  <li>things I read</li>
+  <li>and much more</li>
+</ul>
 
-Thank you for visiting. Enjoy!
+<p>If you would like to get in touch, please feel free to email me at juha.bae@yonsei.ac.kr.</p>
+
+<p>Thanks for visiting, and I hope you enjoy reading!</p>
 </div>
