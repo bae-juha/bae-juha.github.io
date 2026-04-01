@@ -330,3 +330,4 @@ defaults:
       share: true
       related: true
 
+date_format: "%y-%m-%d"
