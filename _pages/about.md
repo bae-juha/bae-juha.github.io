@@ -21,5 +21,5 @@ sidebar_main: true
 
 <p>If you would like to get in touch, please feel free to email me at juha.bae@yonsei.ac.kr.</p>
 
-<p>Thanks for visiting, and I hope you enjoy reading!</p>
+<p>Thanks for visiting, Enjoy!</p>
 </div>
