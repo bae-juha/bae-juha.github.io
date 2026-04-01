@@ -9,7 +9,7 @@ sidebar_main: true
 <div class="about-text">
 <p>Welcome!</p>
 
-<p>I'm Juha Bae, an M.A. student in economics at Yonsei University. My main interests are Industrial Organization and Microeconomics, but I am always open to other areas as well.</p>
+<p>I'm Juha Bae, an M.A. student in economics at Yonsei University.<br>My main interests are Industrial Organization and Microeconomics, but I am always open to other areas as well.</p>
 
 <p>This blog is a place where I share:</p>
 
