@@ -1,5 +1,5 @@
 ---
-title: :mag:
+title: 🔍
 layout: search
 permalink: /search/
 ---
