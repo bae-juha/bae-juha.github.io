@@ -5,7 +5,7 @@ main:
    - title: "Category"
      url: /categories/
    - title: "Tags"
-     url: /collection-archive/
+     url: /tags/
 
 
 counts:
