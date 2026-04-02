@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "[저널명 연도] {{title}}"
 date: {{date}} {{time}} +0900
 categories: [IO, Paper Review]
