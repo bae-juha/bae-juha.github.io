@@ -1,13 +1,10 @@
 ---
 layout: single
-title: "2024-04-02-can-we-trust-citations?.md"
+title: "Can We Trust Patent Citations?"
 date: 2026-04-02 14:33 +0900
 categories: [IO, Paper Review]
-tags: [키워드1, 키워드2]
+tags: [Patent, Citations]
 ---
-
-# **2024-04-02-can-we-trust-citations?.md**
-
 
 <br>
 
