@@ -6,7 +6,7 @@ categories: [Paper Review]
 tags: [Patent, Citations]
 ---
 
-### **Jeffrey Kuhn, Kenneth Younge, Alan Marco**<br>*(The RAND Journal of Economics, 2020)*
+**by Jeffrey Kuhn, Kenneth Younge, Alan Marco** *(The RAND Journal of Economics, 2020)*
 
 ---
 
