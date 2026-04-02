@@ -1,33 +1,26 @@
 ---
 layout: single
-title: "{{title}}"
+title: "paper title"
 date: {{date}} {{time}} +0900
-categories: [IO, Paper Review]
+categories: [Paper Review]
 tags: [키워드1, 키워드2]
 ---
 
-# **{{title}}**
-
-
-<br>
-
-**[Original Paper Title]**
-*by Author 1, Author 2, and Author 3 (Journal Name, Year)*
-
-<br>
-
-> *Abstract here*
+**by Author 1, Author 2, and Author 3** *(Journal name, Year)*
 
 ---
 
+> **Abstract**
+> *Abstract here*
+
 ## **1. Summary**
 
-* **Research Question:** * **Model / Empirical Strategy:** * **Main Results:** <br>
+Here is the summary.
 
 ## **2. Comments**
 
-* **[비판/칭찬 포인트 1]:** * **[비판/칭찬 포인트 2]:** <br>
+Here are the comments.
 
 ## **3. Takeaways**
 
-* **Methodology:** * **Code / Data:** * **Action Item:** ```
+Here are the takeaways.
