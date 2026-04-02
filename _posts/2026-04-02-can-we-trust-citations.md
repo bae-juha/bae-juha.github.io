@@ -1,7 +1,6 @@
 ---
 layout: single
-title: "Patent citations reexamined"
-subtitle: "Jeffrey Kuhn, Kenneth Younge, Alan Marco (*The RAND Journal of Economics, 2020*)"
+title: "Patent citations reexamined <br> <small>Jeffrey Kuhn, Kenneth Younge, Alan Marco (The RAND Journal of Economics, 2020)</small>"
 date: 2026-04-02 14:33 +0900
 categories: [IO, Paper Review]
 tags: [Patent, Citations]
