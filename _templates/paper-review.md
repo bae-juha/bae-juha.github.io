@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "[저널명 연도] {{title}}"
+title: "{{title}}"
 date: {{date}} {{time}} +0900
 categories: [IO, Paper Review]
 tags: [키워드1, 키워드2]
@@ -16,7 +16,7 @@ tags: [키워드1, 키워드2]
 
 <br>
 
-> *Abstract*
+> *Abstract here*
 
 ---
 
