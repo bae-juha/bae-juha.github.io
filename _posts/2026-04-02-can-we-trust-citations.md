@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Patent citations reexamined (RAND, 2020)"
+title: "Patent citations reexamined"
 date: 2026-04-02 14:33 +0900
 categories: [Paper Review]
 tags: [Patent, Citations]
