@@ -15,12 +15,15 @@ tags: [Patent, Citations]
 
 ## **1. Summary**
 
-Here is the summary.
+This paper argues that patent citations are no longer a stable or straightforward proxy for innovation, knowledge flows, or patent value. The authors show that the citation process has changed sharply over time: a small minority of patents now generates a disproportionately large share of all citations, while the average technological similarity between citing and cited patents has fallen. In short, patent citations have become more abundant but less informative on average.
+
+The paper’s broader point is methodological. Many influential studies in IO and innovation economics treat citation counts as if they mean the same thing across time, but the underlying data-generating process has shifted. Once the authors revisit classic citation-based designs using newer and more detailed data, several standard conclusions look weaker or at least much less secure.
 
 ## **2. Comments**
 
-Here are the comments.
+What makes this paper strong is that it does not merely say patent citations are noisy; it says their meaning has changed. That is a much deeper critique. For example, what I'm doing now is selectively reading mostly-cited papers from 2020 until now from RAND and IJIO to get onto the trend of IO studies. Someone might say that such approach is not appropriate, as number of citations does not mean the value of it. That is, I should not focus on cherry-picking based on those figures. But instead, this paper is telling me that I should note that citations have changed over time, and that I should strategically prepare proxies for certain time periods. This is what sharpens the critique.<br>
+Also, we should think about writing references. I, when writing papers, tend to search the keywords of the paper at Google Scholar and cite a paper even if it has little similarity to mine. Such behavior is what makes the number of citations less informative.
 
 ## **3. Takeaways**
 
-Here are the takeaways.
+Researchers need to think much more carefully about who submitted the citation, when it was submitted, how many citations the patent contains, and whether the citation is actually informative for the phenomenon being studied. The lesson is not to abandon patent data altogether, but to use citation measures more selectively and defensibly. In many settings, text-based similarity, better citation filtering, or alternative innovation measures may now be more credible than raw citation counts alone.
